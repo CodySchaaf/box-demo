@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/box-demo/static/js/main.e24835d0.chunk.js",
+    "main.js.map": "/box-demo/static/js/main.e24835d0.chunk.js.map",
+    "runtime-main.js": "/box-demo/static/js/runtime-main.d31328c8.js",
+    "runtime-main.js.map": "/box-demo/static/js/runtime-main.d31328c8.js.map",
+    "static/js/2.a4723998.chunk.js": "/box-demo/static/js/2.a4723998.chunk.js",
+    "static/js/2.a4723998.chunk.js.map": "/box-demo/static/js/2.a4723998.chunk.js.map",
+    "index.html": "/box-demo/index.html",
+    "precache-manifest.dc5b54b5268010b3e9b5b5fc74d0369f.js": "/box-demo/precache-manifest.dc5b54b5268010b3e9b5b5fc74d0369f.js",
+    "service-worker.js": "/box-demo/service-worker.js",
+    "static/js/2.a4723998.chunk.js.LICENSE.txt": "/box-demo/static/js/2.a4723998.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31328c8.js",
+    "static/js/2.a4723998.chunk.js",
+    "static/js/main.e24835d0.chunk.js"
+  ]
+}

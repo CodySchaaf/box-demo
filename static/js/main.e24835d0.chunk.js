@@ -1,0 +1,2 @@
+(this["webpackJsonpbox-demo"]=this["webpackJsonpbox-demo"]||[]).push([[0],{27:function(e,n,t){e.exports=t(36)},36:function(e,n,t){"use strict";t.r(n);var o=t(1),r=t.n(o),c=t(18),a=t.n(c),l=t(47),u=t(48);function i(){return r.a.createElement(l.a,{clone:!0,bgcolor:"primary.light"},r.a.createElement(u.a,null,"production"))}const s=document.getElementById("root");a.a.render(r.a.createElement(i,null),s)}},[[27,1,2]]]);
+//# sourceMappingURL=main.e24835d0.chunk.js.map
